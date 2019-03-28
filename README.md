@@ -1,0 +1,1 @@
+最开始用的mysql-connector-java-8.0.15.jar  导致数据库连接一直是报错 让我换驱动类com.mysql.sf.jdbc.Driver 然而换了也没用
